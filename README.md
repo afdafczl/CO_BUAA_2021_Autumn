@@ -32,7 +32,7 @@
 
 6. 想要6系的计组？
 
-   - 2021春 - [Oshwiciqwq](https://github.com/Oshwiciqwq/BUAA-CO-2021)
+   - 2021秋 - [Oshwiciqwq](https://github.com/Oshwiciqwq/BUAA-CO-2021)
    
 6. 没看到文件？
 
