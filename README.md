@@ -1,6 +1,6 @@
 # 21CO_BUAA_2021_hjc-owo
 
-这是 2021 秋花叶小姐姐的北航21系计算机硬件基础（软件专业）实验课。
+这是2021秋花叶小姐姐的北航21系计算机硬件基础（软件专业）实验课。
 
 她说她也不会。
 
@@ -32,7 +32,7 @@
 
 6. 想要6系的计组？
 
-   请移步[这里](https://github.com/Oshwiciqwq/BUAA-CO-2021)
+   - 2021春 - [Oshwiciqwq](https://github.com/Oshwiciqwq/BUAA-CO-2021)
    
 6. 没看到文件？
 
