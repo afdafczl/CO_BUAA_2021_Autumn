@@ -7,3 +7,9 @@
 搭建支持 7 条 MIPS 指令的单周期 CPU。要求的 MIPS 指令如下：
 
 lw sw ori j beq lui addu subu
+
+
+
+课上考核的是：
+
+addiu bgtz sb
