@@ -3,3 +3,7 @@
 ## P3 单周期CPU构建
 
 没什么好说的。
+
+搭建支持 7 条 MIPS 指令的单周期 CPU。要求的 MIPS 指令如下：
+
+lw sw ori j beq lui addu subu
