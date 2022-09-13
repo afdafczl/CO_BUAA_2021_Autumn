@@ -1,8 +1,6 @@
-# CO_BUAA_2021_hjc-owo
+# P0
 
-## P0
-
-### vote0.circ
+## vote0.circ
 
 简单投票表决器。
 
@@ -10,7 +8,7 @@
 
 按照“少数服从多数”的原则，输出表决是否通过。
 
-### exam3.circ
+## exam3.circ
 
 输入一个8位0/1串（abcdefgh）和操作op。
 
@@ -18,7 +16,7 @@
 
 若 op = 2，输出 acegbdfh；若 op = 4，输出 aebfcgdh。
 
-### mips1.asm
+## mips1.asm
 
 写一个快排汇编代码。
 
@@ -48,7 +46,7 @@
 [1,2,3,4,5,6,7,8]
 ```
 
-### qsort.asm
+## qsort.asm
 
 题面同上。
 
