@@ -1,20 +1,18 @@
-# 21CO_BUAA_2021_hjc-owo
+# 2 Logisim入门练习
 
-## 2 Logisim入门练习
-
-### test1.circ
+## test1.circ
 
 输入：4个32位数字
 
 输出：它们**按位与**之后的结果
 
-### test2.circ
+## test2.circ
 
 输入：自上到下 a b c
 
 输出：a + b - c
 
-### test3.circ
+## test3.circ
 
 输入：自上到下 a b c d op
 
