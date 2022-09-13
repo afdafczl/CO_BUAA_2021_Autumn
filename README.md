@@ -1,12 +1,10 @@
-# CO_BUAA_2021_hjc-owo
+# P2
 
-## P2
-
-### mips1.asm
+## mips1.asm
 
 输入两个数，求其最大公约数。
 
-### mips2.asm
+## mips2.asm
 
 字符串逆置。
 
@@ -29,7 +27,7 @@ qwertyuio
 qwytreuio
 ```
 
-### mips3.asm
+## mips3.asm
 
 汉诺塔。
 
@@ -65,7 +63,7 @@ B->C
 
 
 
-## 课上考核
+# 课上
 
 题目：
 
